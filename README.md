@@ -30,7 +30,7 @@
 
 ### 6. 풀이가 완료된 소스를 해당 브랜치에 commit, push한다.
 - 이 때 소스는 자신의 저장소에만 push 된 상태겠죠?
-- 업데이트 된 문제만 commit, push 되도록 잘 관리해주세요 :)
+
 ### 7. fork한 저장소로 돌아와 [Compare & Pull Request] 버튼을 클릭하여 Pull Request를 생성한다.
 - 왼쪽의 base repository가 공통 저장소의 master이고, 오른쪽의 compare대상이 PR을 보낼 브랜치가 맞는지 잘 확인합니다.
 - PR 제목은 [n주차] 이름 - 문제명 형식으로 작성합니다.
